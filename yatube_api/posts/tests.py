@@ -1,3 +1,1 @@
-from django.test import TestCase
-
-# Create your tests here.
+"""Проверки проекта находятся в корневом каталоге tests."""
